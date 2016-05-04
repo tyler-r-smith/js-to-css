@@ -1,6 +1,6 @@
 {
   "name": "js-to-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple function to turn js objects into css strings",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "css"
   ],
   "author": "Tyler R Smith",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyler-r-smith/js-to-css",
+    "email": "t@q1s.co"
+  }
 }
